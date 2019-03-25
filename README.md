@@ -1,24 +1,7 @@
-# README
+# REACT COMMENTS IN RAILS 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- First We are talking about the comments:
 
-Things you may want to cover:
+- You can create a comment and edit it and delete it
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Talking also about the adding new consommer.
